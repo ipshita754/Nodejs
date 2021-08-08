@@ -1,0 +1,13 @@
+var m=10;
+k=j=i=m;
+console.log(k);
+console.log(j);
+console.log(i);
+console.log(m);
+k++;
+m=m+1;
+++j;
+console.log("*******");
+console.log(k);
+console.log(m);
+console.log(j);
